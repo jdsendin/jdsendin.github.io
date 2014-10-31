@@ -10,7 +10,7 @@
   height: 50px;
   width: 100%;
   position: fixed;
-  background: url(../images/hardwood.gif) #353535;
+  background: url(../images/hardwood.gif);
   background-size: auto;
 }
 #header nav {
